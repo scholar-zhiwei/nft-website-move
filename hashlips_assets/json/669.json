@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #669",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/669.png",
+  "dna": "f6181cba0e189f6ee07fd9b53cc052c7d91a5f5c",
+  "edition": 669,
+  "date": 1670882793826,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Low"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

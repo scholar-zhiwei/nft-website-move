@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #784",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/784.png",
+  "dna": "bc07aa6c0ab4054da74567b678c512a540df99bf",
+  "edition": 784,
+  "date": 1670882803278,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "High"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

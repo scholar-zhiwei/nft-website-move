@@ -1,0 +1,19 @@
+{
+  "name": "token",
+  "version": "1.0.0",
+  "description": "The Aptos Non-Fungible Token (NFT) Minting Tool includes a CLI, a mint contract, and a template minting site that aim to lower the barriers for NFT creators to launch NFTs on Aptos. Currently, supported features include:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aptos-labs/token.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aptos-labs/token/issues"
+  },
+  "homepage": "https://github.com/aptos-labs/token#readme"
+}
